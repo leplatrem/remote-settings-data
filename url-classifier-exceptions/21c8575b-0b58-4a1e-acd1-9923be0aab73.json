@@ -1,0 +1,1 @@
+{"bugIds":["1960851"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"21c8575b-0b58-4a1e-acd1-9923be0aab73","isPrivateBrowsingOnly":true,"last_modified":1751480614861,"schema":1751480531457,"urlPattern":"*://static.hsappstatic.net/*"}

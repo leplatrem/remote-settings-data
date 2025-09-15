@@ -1,0 +1,1 @@
+{"bugIds":["1971578"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0c8f9ec3-cc61-442a-ada2-fcfa21899a3f","last_modified":1753716608564,"schema":1753716563938,"topLevelUrlPattern":"*://coinstats.app/*","urlPattern":"*://static.geetest.com/*"}

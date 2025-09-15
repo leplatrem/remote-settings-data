@@ -1,0 +1,1 @@
+{"bugIds":["1968970"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dfc1986b-15fa-4a43-b961-b448907bdc6d","last_modified":1751480615635,"schema":1751480609908,"urlPattern":"*://media.brid.tv/*"}
