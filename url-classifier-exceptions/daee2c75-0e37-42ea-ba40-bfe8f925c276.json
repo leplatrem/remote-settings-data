@@ -1,0 +1,1 @@
+{"bugIds":["1960878"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"daee2c75-0e37-42ea-ba40-bfe8f925c276","last_modified":1751537075470,"schema":1751480574280,"urlPattern":"*://*.salesforceliveagent.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1960877"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b46e296d-9d33-4f2c-ba06-deb07316fefe","last_modified":1751537075884,"schema":1751480608034,"urlPattern":"*://id.tinypass.com/*"}

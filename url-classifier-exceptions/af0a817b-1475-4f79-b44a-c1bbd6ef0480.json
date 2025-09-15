@@ -1,0 +1,1 @@
+{"bugIds":["1972018"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"af0a817b-1475-4f79-b44a-c1bbd6ef0480","last_modified":1751537075868,"schema":1751480612934,"urlPattern":"*://rebuyengine.com/*"}

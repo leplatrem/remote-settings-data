@@ -1,0 +1,1 @@
+{"bugIds":["1962673"],"category":"baseline","classifierFeatures":["fingerprinting-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e7e93b36-7a41-4468-a0c1-8d61e70e9f74","last_modified":1751537075347,"schema":1751480538028,"urlPattern":"*://*.px-cloud.net/*"}
