@@ -1,0 +1,1 @@
+{"bugIds":["1962673"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"66bba04c-7bc2-4145-9827-5ba7bbbafeba","last_modified":1751480615341,"schema":1751480582302,"urlPattern":"*://*.px-cloud.net/*"}
