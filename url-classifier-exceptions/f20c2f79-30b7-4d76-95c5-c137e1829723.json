@@ -1,0 +1,1 @@
+{"bugIds":["1960874"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f20c2f79-30b7-4d76-95c5-c137e1829723","last_modified":1751537075499,"schema":1751480575778,"urlPattern":"*://io.vtex.com.br/*"}

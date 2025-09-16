@@ -1,0 +1,1 @@
+{"bugIds":["1917254"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"564badcb-2833-40ea-8d0c-9e253cef3c09","last_modified":1756976771851,"schema":1756964233283,"topLevelUrlPattern":"*://feedback.minecraft.net/*","urlPattern":"*://minecraftfeedback.zendesk.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1962443"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"341f3d17-d0b1-41ee-83d2-bbda170ce498","isPrivateBrowsingOnly":true,"last_modified":1751537075115,"schema":1751480534798,"urlPattern":"*://*.spot.im/*"}

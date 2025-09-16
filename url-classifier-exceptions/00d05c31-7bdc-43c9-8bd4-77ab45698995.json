@@ -1,0 +1,1 @@
+{"bugIds":["1960851"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"00d05c31-7bdc-43c9-8bd4-77ab45698995","isPrivateBrowsingOnly":true,"last_modified":1751537075105,"schema":1751480534074,"urlPattern":"*://js-eu1.hsforms.net/*"}

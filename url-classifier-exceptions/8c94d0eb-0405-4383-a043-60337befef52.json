@@ -1,0 +1,1 @@
+{"bugIds":["1962564"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8c94d0eb-0405-4383-a043-60337befef52","last_modified":1751537075629,"schema":1751480581935,"urlPattern":"*://*.zendesk.com/*"}

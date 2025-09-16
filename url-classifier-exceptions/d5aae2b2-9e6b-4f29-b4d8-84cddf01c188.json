@@ -1,0 +1,1 @@
+{"bugIds":["1962367"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d5aae2b2-9e6b-4f29-b4d8-84cddf01c188","last_modified":1751537075550,"schema":1751480579964,"urlPattern":"*://*.cmp.inmobi.com/*"}
