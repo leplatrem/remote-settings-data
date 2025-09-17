@@ -1,0 +1,1 @@
+{"bugIds":["1969919"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e2dc2d99-0bb2-4042-aac0-75601a062bc8","last_modified":1751480615515,"schema":1751480611082,"urlPattern":"*://*.liveperson.net/*"}

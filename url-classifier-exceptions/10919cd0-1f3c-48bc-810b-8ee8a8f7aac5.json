@@ -1,0 +1,1 @@
+{"bugIds":["1967403"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"10919cd0-1f3c-48bc-810b-8ee8a8f7aac5","last_modified":1751480615639,"schema":1751480612195,"urlPattern":"*://*.wistia.com/*"}

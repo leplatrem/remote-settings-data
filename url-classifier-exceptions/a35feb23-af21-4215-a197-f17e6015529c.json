@@ -1,0 +1,1 @@
+{"bugIds":["1960877"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"a35feb23-af21-4215-a197-f17e6015529c","isPrivateBrowsingOnly":true,"last_modified":1751480615058,"schema":1751480526241,"urlPattern":"*://*.piano.io/*"}
