@@ -1,0 +1,1 @@
+{"bugIds":["1962463"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5db1bb64-5b53-49cc-b686-7fa850cc5bc5","last_modified":1751537075571,"schema":1751480581095,"urlPattern":"*://static-embed.play.hotmart.com/*"}

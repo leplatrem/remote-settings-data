@@ -1,0 +1,1 @@
+{"bugIds":["1962463"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"b6eb828b-ab43-4a31-8ed5-b9b92d2cf981","isPrivateBrowsingOnly":true,"last_modified":1751537075157,"schema":1751480563820,"urlPattern":"*://vod-akm.play.hotmart.com/*"}

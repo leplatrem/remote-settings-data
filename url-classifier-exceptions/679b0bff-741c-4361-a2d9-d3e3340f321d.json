@@ -1,0 +1,1 @@
+{"bugIds":["1960878"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"679b0bff-741c-4361-a2d9-d3e3340f321d","isPrivateBrowsingOnly":true,"last_modified":1751537075306,"schema":1751480529632,"urlPattern":"*://*.salesforce.com/*"}

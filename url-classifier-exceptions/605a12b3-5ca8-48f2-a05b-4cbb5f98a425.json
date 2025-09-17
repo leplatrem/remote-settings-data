@@ -1,0 +1,1 @@
+{"bugIds":["1960872"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"605a12b3-5ca8-48f2-a05b-4cbb5f98a425","last_modified":1751537075504,"schema":1751480575417,"urlPattern":"*://sdk.privacy-center.org/*"}
